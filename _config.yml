@@ -1,17 +1,17 @@
 # Site settings
-title: TBD
-description: TBD
+title: Pico Future
+description: Landing page for the picofuture website where we are working on improving the future one step at a time.
 
 permalink: pretty
 
 author:
-  fullname: TBD
-  github: TBD
-  linkedin: TBD
-  email: TBD
-  twitter: TBD
+  fullname: PicoFuture
+  github: null
+  linkedin: null
+  email: null
+  twitter: null
 
-gtag: TBD
+gtag: G-TG1ETWH58P
 
 # Build settings
 highlighter: rouge
